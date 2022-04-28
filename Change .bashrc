@@ -20,4 +20,3 @@ source /home/kdanielmorais/bioinformatics/tools/bioinfo_functions.sh
 
 # Conda to the path definition at log in:
 source /opt/conda/etc/profile.d/conda.sh
-"
